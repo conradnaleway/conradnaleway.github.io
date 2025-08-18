@@ -1,0 +1,198 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f43\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f47\fswiss\fcharset238\fprq2 Arial CE{\*\falt Arial};}{\f48\fswiss\fcharset204\fprq2 Arial Cyr{\*\falt Arial};}{\f50\fswiss\fcharset161\fprq2 Arial Greek{\*\falt Arial};}
+{\f51\fswiss\fcharset162\fprq2 Arial Tur{\*\falt Arial};}{\f52\fswiss\fcharset177\fprq2 Arial (Hebrew){\*\falt Arial};}{\f53\fswiss\fcharset178\fprq2 Arial (Arabic){\*\falt Arial};}{\f54\fswiss\fcharset186\fprq2 Arial Baltic{\*\falt Arial};}
+{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese){\*\falt Arial};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red51\green153\blue102;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext15 Default;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM1;}{
+\s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM9;}{\s18\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM2;}{\s19\ql \li0\ri0\sa548\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM11;}{
+\s20\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM3;}{\s21\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM4;}{\s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM5;}{
+\s23\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM6;}{\s24\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM7;}{\s25\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM8;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid6187275\rsid8611417\rsid10041093}{\*\generator Microsoft Word 11.0.6568;}{\info{\title American Dental Association }{\author DPROCHNO}{\operator College of DuPage}
+{\creatim\yr2006\mo5\dy29\hr14\min51}{\revtim\yr2006\mo5\dy29\hr14\min53}{\version3}{\edmins12}{\nofpages6}{\nofwords2635}{\nofchars15024}{\*\company COD}{\nofcharsws17624}{\vern24579}}\paperw12440\paperh16000\margl900\margr900\margt900\margb0 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot6187275 \fet0\sectd 
+\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6187275 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs36\insrsid10041093\charrsid6187275 American Dental Association 
+\par }\pard \s15\ql \li0\ri0\sa198\sl180\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs16\insrsid10041093 Washington Office Suite 1200 1111 14th Street, NW Washington, D.C 20005 (202)898-2400 Fax (202)898-2437 
+\par }\pard\plain \s17\ql \li208\ri0\sa270\nowidctlpar\faauto\rin0\lin208\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs23\cf1\insrsid10041093\charrsid6187275 November 25}{\b\fs23\cf1\insrsid6187275\charrsid6187275 , 2003}{
+\b\fs23\cf1\insrsid10041093\charrsid6187275  
+\par }\pard\plain \s16\ql \li208\ri0\nowidctlpar\faauto\rin0\lin208\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 Dockets Management Branch (HFA-305) 
+\par }\pard\plain \s18\ql \li193\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 Food and Drug Administration 5630 Fishers Lane Room 106 1 
+\par }\pard\plain \s19\ql \li193\ri0\sa548\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 Rockville, MD 20852 
+\par }\pard\plain \s18\ql \li193\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs23\cf1\insrsid10041093\charrsid6187275 
+RE: Comments on Oral Health Care Drug Products for Over-The-Counter Human Use: 
+\par }\pard\plain \s17\ql \li193\ri340\sa270\sl273\slmult0\nowidctlpar\faauto\rin340\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs23\cf1\insrsid10041093\charrsid6187275 Antigingivitis
+/Antiplaque Drug Products; Establishment of a Monograph, 68 Fed Reg. }{\b\fs26\cf1\insrsid10041093\charrsid6187275 32232-32287. 
+\par }\pard \s17\ql \li193\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 {\fs23\cf1\insrsid10041093 Docket No. 8 lN-033P 
+\par Dear Sir/Madam: 
+\par }{\fs23\cf1\insrsid6187275 The American Dental Association (ADA or Association) is pleased to provide the FDA with comments regarding the proposed rule: Oral Health Care Drug Products for Over-The-Counter Human Use: Antigingivitis Antiplaque
+ Drug Products; Establishment of a Monograph. }{\fs23\cf1\insrsid10041093 The ADA represents over 147,000 dentists in the United States and seeks to advance the art and science of dentistry, promoting high 
+quality dental care and the oral health of the American public. 
+\par }\pard \s17\ql \li208\ri0\sa270\nowidctlpar\faauto\rin0\lin208\itap0 {\fs26\cf1\insrsid10041093 Summary of Proposed Rule 
+\par }\pard\plain \s18\ql \li193\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 The FDA has issued this advance notice of proposed rulemaking (ANPR) to establish 
+
+\par conditions under which over-the-counter (OTC) drug products for the reduction or 
+\par prevention of dental plaque and gingivitis are generally recognized as safe and effective 
+\par and not misbranded. The ANPR contains the unaltered conclusions and 
+\par recommendations of the independent Dental Plaque Subcommittee of the 
+\par Nonprescription Drugs Advisory Committee of the Center for Drug Evaluation and 
+\par Research (\'93Subcommittee\'94) and the FDA\rquote s preliminary comments on them. FDA is 
+\par publishing this ANPR solely to stimulate public discussion and comment. It does not 
+\par }\pard\plain \s17\ql \li193\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 represent the FDA\rquote s position on any par
+ticular matter covered in the ANPR. 
+\par }\pard\plain \s18\ql \li193\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin193\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid10041093 The Subcommittee held a number of meetings from August 1993 to December 1998. 
+\par The ADA provided testimony on several occasions. The resulting ANPR is generally 
+\par consistent both with the ADA\rquote s testimony and with the ADA Guidelines for the 
+\par Acceptance of Chemotherapeutic Products for the Control of Supragingival Plaque and 
+\par }\pard\plain \s20\ql \li0\ri100\sl276\slmult0\nowidctlpar\faauto\rin100\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 Gingivitis }{\fs26\cf1\insrsid6187275 (J}{\fs26\cf1\insrsid10041093 
+. Am. Dent. Assn., Vol. 112, April 1986, pgs 529-532) that were current for most of these hearings. They are also consistent with the Sept 1997 update titled, ADA 
+\par }\pard\plain \s17\ql \li0\ri635\sa270\sl276\slmult0\nowidctlpar\faauto\rin635\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+Guidelines for Chemotherapeutic Products for Control of Gingivitis. However, the Association does wish to comment on certain specific aspects of the ANPR. 
+\par }\pard \s17\qc \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 ADA Comments 
+\par P32232 - 32234 Supplementary Information 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Combination Products 
+\par Subcommittee Recommendation: The Subcommittee believes that it is rational to combine an anticaries agent and/or a desensitizing agent with a Cat I antigingivitis/antiplaque agent. The FDA is dissenting from this Subcommit
+tee recommendation, because no such combination products were submitted for the OTC review. The FDA is requesting supporting data and information demonstrating that these combination products can generally be recognized as safe and effective for OTC use. 
+ADA Comment: The ADA concurs with the Subcommittee\rquote 
+s recommendation that these are rational combinations. The ADA also agrees with the FDA that supporting data and information should be submitted demonstrating that specific combination products are safe and effective for all indications. 
+\par }{\fs26\cf1\insrsid6187275 Antigingivitis or/and Antiplaque Claims }{\fs26\cf1\insrsid10041093 
+\par Subcommittee Recommendation: The Subcommittee concluded that an active ingredient could be either an antigingivitis agent alone or an antigingivitis/antiplaque agent. It also state
+d that the therapeutic endpoint for both antigingivitis and antiplaque active ingredients is a significant reduction in gingivitis. During its meetings, the Subcommittee also concluded that an agent that only reduced plaque, but not gingivitis, should not
+ be able to make an antiplaque claim. ADA Comment: The ADA strongly agrees with the Subcommittee\rquote 
+s position that to be able to make either an antigingivitis or and antiplaque claim, a product must be able to demonstrate it can cause a significant reduction in gingivitis. The ADA emphasizes the importance of removing plaque daily for }{
+\fs26\cf1\insrsid6187275 maintaining}{\fs26\cf1\insrsid10041093  gingival health because plaque is the etiologic agent for gingivitis. Not all plaque is located at the gingival margin, however, and it is possible that a product co
+uld have an effect to reduce plaque without having an effect on gingival health, 
+\par }{\fs26\cf1\insrsid6187275 OTC Antigingivitis Drug Product Ingredients }{\fs26\cf1\insrsid10041093 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee agreed that ingredients that work to decrease gingivitis by means other than plaqu
+e reduction would be inappropriate to use in OTC antigingivitis drug products. They felt that these products might mask the symptoms of a more serious condition. The FDA states that the Subcommittee agreed that none of the submitted ingredients worked by 
+any mechanism other than plaque reduction, so the issue was not discussed further. 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 ADA Comment: One of the Cat I active ingredients, 0.454% }{
+\b\cf13\insrsid10041093\charrsid10041093 stannous fluoride}{\b\cf6\insrsid10041093\charrsid10041093 , has as 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 
+its proposed antigingivitis mechanism a decrease in plaque bacteria metabolism rather 
+\par }\pard\plain \s23\ql \li0\ri360\sl278\slmult0\nowidctlpar\faauto\rin360\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 th
+an killing plaque bacteria to decrease plaque mass. Indeed, one of the tests that is proposed for OTC 0.454% }{\b\cf13\insrsid10041093\charrsid10041093 stannous fluoride}{\b\cf6\insrsid10041093\charrsid10041093  antigingivitis products, called the plaque 
+
+\par glycolysis and regrowth method (PGRM), measures plaque metabolic activity and not plaque mass. On this page, the FDA also indicates that the subcommittee is 
+\par }\pard\plain \s20\ql \li0\ri100\sl276\slmult0\nowidctlpar\faauto\rin100\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 recommending a special antigingivitis reduction only claim for 0.454% }{
+\b\cf13\insrsid10041093\charrsid10041093 stannous fluoride}{\b\cf6\insrsid10041093\charrsid10041093  products because plaque mass is not reduced. It is, therefore, unclear why the 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 Subcommittee co
+ncluded in the FDA reports, that none of the submitted antigingivitis 
+\par agents worked by a mechanism other that plaque reduction. The ADA believes that 
+\par agents that reduce gingivitis by either killing plaque bacteria or by reducing its metabolic 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf6\insrsid10041093\charrsid10041093 activity should be permitted in OTC antigingivitis products}{
+\b\cf1\insrsid10041093\charrsid10041093 . 
+\par }\pard \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid6187275 ADA\lquote s}{\fs23\cf1\insrsid10041093  Assistance 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid10041093 Subcommittee Recommendation: }{\fs26\cf1\insrsid10041093 The Subcommittee gave recognition of the ADA\rquote 
+s assistance in providing data, information and testimony during the course of the Subcommittee\rquote 
+s hearings. The Subcommittee also acknowledged receipt from the ADA of the ADA Guidelines for the Acceptance of Chemotherapeutic Products for the Control of Supragingival Plaque and Gingivitis (April 1986), for consideration in making its recommendations 
+on the requirements for safe and effective OTC antigingivitis/antiplaque products. }{\fs23\cf1\insrsid10041093 ADA Comment: }{\fs26\cf1\insrsid10041093 
+The ADA was pleased to provide assistance to the Subcommittee. The April 1986 ADA Guidelines for the Acceptance of Chemotherapeutic Products for the Control of S
+upragingival Plaque and Gingivitis outline the clinical testing that the ADA believes is necessary to demonstrate the safety and effectiveness of novel chemotherapeutic products for the control of plaque and gingivitis. The Subcommittee referred to these 
+guidelines when it evaluated the studies submitted in response to the FDA\rquote s Sept 19, 1990 request for data and concluded that the data supported Category I status for only three active agent/active agent combinations. 
+\par In the ADA\rquote s efforts to continually as
+sure that its product evaluation guidelines reflect current scientific understanding, it periodically reviews and updates these guidelines. An update to the April 1986 gingivitis guidelines titled, ADA Acceptance Program Guidelines for Chemotherapeutic Pr
+oducts for the Control of Gingivitis, was published in Sept 1997. When the April 1986 guidelines were reviewed, it was concluded that the required safety and efficacy studies should be retained. However, the 1997 update reflects an effort by the ADA
+\rquote s Counc
+il on Scientific Affairs to put all ADA guidelines into a standardized format, and also includes suggested clinical protocol guidelines that companies can follow to demonstrate safety and effectiveness. The April 1986 guidelines are still referenced in th
+e Sept 1997 update for such things as the ADA position on plaque and gingivitis, and for testing requirements for microbiology and toxicology. A copy of the Sept 1997 update is included with these comments. 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 The FDA may wish to refer to these updated guidel
+ines if it decides to evaluate additional antigingivitis agents in this OTC review. The updated guidelines may also be useful after the final FDA monograph on OTC antiplaque/antigingivitis products is published, when 
+\par }\pard\plain \s17\ql \li55\ri0\sa270\nowidctlpar\faauto\rin0\lin55\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 all future antigingivitis agents will need to go through the New Drug Approval process. 
+\par }\pard \s17\qc \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Pg 32234, I. Submission of Data and Information 
+\par }\pard \s17\ql \li55\ri0\sa270\nowidctlpar\faauto\rin0\lin55\itap0 {\fs23\cf1\insrsid10041093 Chlorhexidine Digluconate 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 FDA Comment: The FDA states that chlorhexidine digluconate was among ingredients that \'93were not marketed for a material time and 
+to a material extent for antigingivitis/antiplaque use in the United States\'94
+. ADA Comment: Point of clarification -If the FDA meant to say that chlorhexidine has not been marketed for a material time and to a material extent for antigingivitis/antiplaque u
+se in the United States in an OTC product, the ADA concurs. However, 0.12% chlorhexidine digluconate has met these conditions as a prescription product, and there exists a significant amount of published data on the safety and effectiveness of this ingred
+ient as an antigingivitis/antiplaque agent. 
+\par }\pard \s17\ql \fi-2875\li2875\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin2875\itap0 {\fs26\cf1\insrsid10041093 Pgs 3223532238, II General Statements and Recommendations, B. Background and General Discussion of Terms 
+\par }\pard \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid10041093 Definitions 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 Subcommittee Recommendation: The subcommittee has recommended definitions for 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 the following 
+terms: calculus/tartar, dental plaque, gingival sulcus, gingivitis, oral hygiene, pellicle, and periodontitis, and reached certain conclusions about the relationship of dental plaque to gingivitis. ADA Comment: The ADA agrees with the definitions presente
+d in this section, and with the Subcommittee\rquote s conclusions about the relationship of dental plaque and gingivitis, especially the conclusion that \'93gingivitis reductions must be measured directly\'94
+. This refers to the possibility that some agents might be able to reduce plaque while not reducing gingivitis, The ADA does not support approving products as antigingivitis agents if they have only been demonstrated to reduce plaque. 
+\par }\pard \s17\ql \fi-3960\li4080\ri163\sa270\sl271\slmult0\nowidctlpar\faauto\rin163\lin4080\itap0 {\fs26\cf1\insrsid10041093 PPS 32238-32239, II General Statements and Recommendations, C. Drug/Cosmetic Status 
+\par }\pard \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid10041093 Antiplaque Claims 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee concludes that any reference to the control of dental plaque should be interpreted as a drug claim, and that a product making an antiplaque claim must demonstrate a clinically significant 
+reduction in gingivitis. ADA Comment: The ADA agrees with the Subcommittee that a product that can reduce plaque but that does not have an effect on gingivitis may mislead people into thinking that the plaque reduction is therapeutically significant, when
+ it may not be. Therefore, whenever a plaque claim is made, the ADA agrees with the Subcommittee that the product should also be required to show that it is effective in reducing gingivitis. 
+\par }\pard \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid10041093 Supragingival Tartar Build@ 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Subcommittee Recommendation: The Subcommittee concludes that any reference to supragingival tartar (calculus) \lquote 
+should be interpreted as a cosmetic claim. The Subcommittee did not make reference to subgingival tartar. ADA Comment: The ADA agrees with the Subcommittee. In all clinical studies 
+to date, OTC products that help prevent supragingival tartar buildup have not demonstrated any beneficial effect on gingival health. In addition, none of these products have been shown to have any effect on subgingival tartar. 
+\par }\pard \s17\ql \li53\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin53\itap0 {\fs26\cf1\insrsid10041093 Pg; 32240, General Statements and Recommendations, E. Combining Drue Products 
+\par }\pard \s17\ql \li0\ri273\sa270\sl276\slmult0\nowidctlpar\faauto\rin273\lin0\itap0 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee outlines its rationale for why it believes certain combination antigingivitis drug products are rational. ADA Comment: The ADA concurs with the subcommittee comments. 
+\par }\pard \s17\qc \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Pg 32240, General Statements and Recommendations, F. Testing of }{\fs26\cf1\insrsid6187275 Antigingivitis/Antiplaque}{\fs26\cf1\insrsid10041093 
+ Products 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee concludes that products using the three recommended Cat I OTC antigingivitis/antiplaque agents should be required to demonstrate their effectiveness through a series of final formulation tests, using the speci
+f
+ic marketed product formulation and dosage form (i.e. dentifrice, gel, paste or rinse). ADA Comment: The ADA concurs with this recommendation. Because other ingredients added to a formulation can modify active agent activity, the ADA believes that it is a
+lways necessary to test the final marketed product, rather than just the ingredient. 
+\par }\pard\plain \s19\qc \li0\ri0\sa548\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 Pg 32240, General Statements and Recommendations, F. Testing, l.Changes in 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee recommends that drug products containing Cat I ac
+tive ingredients formulated in dosage forms other than those reviewed by the Subcommittee be required to demonstrate antigingivitis/antiplaque efficacy by a single 6-month, randomized, controlled clinical study. ADA Comment: The ADA concurs with this reco
+mmendation, and would suggest that such clinical studies be designed as indicated in the ADA Guidelines for Chemotherapeutic Products }{\fs26\cf1\insrsid6187275 for \lquote the}{\fs26\cf1\insrsid10041093 
+ Control of Gingivitis (Sept 1997). Different dosage forms may affect the duration or extent of contact with the active agent, which, in turn, may affect product efficacy. 
+\par }\pard\plain \s17\qc \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 PP 32240, General Statements and Recommendations}{\fs26\cf1\insrsid6187275 ,}{
+\fs26\cf1\insrsid10041093  F. Testing, 2. Final Formulation Testing 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\fs26\cf1\insrsid10041093\charrsid6187275 Subcommittee Recommendation: The Subcommittee is recommending that the PGRM to measure biological activity
+ be a required for the Cat I active agents }{\b\fs26\cf17\insrsid10041093\charrsid6187275 cetylpyridinium chloride }{\b\fs26\cf1\insrsid10041093\charrsid6187275 and }{\b\fs26\cf6\insrsid10041093\charrsid6187275 stannous fluoride}{
+\b\fs26\cf1\insrsid10041093\charrsid6187275 , but not for the fixed combination of 0.92% eucalyptol, 0.042% menthol, 0.06% methyl salicylate, and 0.064% thymol rinse. }{\b\i\fs26\cf1\insrsid10041093\charrsid6187275 
+ADA Comment: It is unclear why this test would be required for only two of the active agents/active agent combination, or why it would be required for agents that act by killing plaque bacteria rather than by decreasing plaque metabolism. 
+\par }\pard \s17\ql \fi-2437\li3038\ri610\sa270\sl278\slmult0\nowidctlpar\faauto\rin610\lin3038\itap0 {\fs26\cf1\insrsid10041093 PP 32240, General Statements and Recommendations, F. Testing, 2. Final ! Formulation Testing 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\fs26\cf1\insrsid10041093\charrsid6187275 Subcommittee Recommendation: The Subcommittee is recommending that a disk reduction assay be included for the Cat 1 active }{
+\b\fs26\cf17\insrsid10041093\charrsid6187275 cetylpyridinium chloride}{\b\fs26\cf1\insrsid10041093\charrsid6187275  to demonstrate the availability of the active agent. }{\b\i\fs26\cf1\insrsid10041093\charrsid6187275 ADA Comment: It is un
+clear why this test would be required for only one of the Cat 1 active agents/active agent combination. 
+\par }\pard \s17\qc \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 PP 32241, General }{\fs26\cf1\insrsid6187275 Statements}{\fs26\cf1\insrsid10041093  and Recommendations, F. Testing, 2., Final Formulation Testing 
+
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Subcommittee Recommendation: The Subcommittee is recommen
+ding that a 2-week in vivo experimental gingivitis study be required for products with the fixed combination of 0.92% eucalyptol, 0.042% menthol, 0.06% methyl salicylate, and 0.064% thymol rinse, but not for products containing the other two Cat 1 active 
+a
+gents. ADA Comment: It is unclear why this in vivo test would be required for only one of the Cat 1 active agents/active agent combinations. In fact, this type of test would not fall under Final Formulation Testing, but instead describes clinical testing.
+ 
+\par }\pard \s17\ql \fi-2510\li2630\ri108\sa270\sl273\slmult0\nowidctlpar\faauto\rin108\lin2630\itap0 {\fs26\cf1\insrsid10041093 Pg 32243, General Statements and Recommendations, H. }{\fs26\cf1\insrsid6187275 Safety}{\fs26\cf1\insrsid10041093 
+ and Effectiveness, 2a. }{\fs26\cf1\insrsid6187275 Safety}{\fs26\cf1\insrsid10041093 , i. }{\fs26\cf1\insrsid6187275 Toxicological}{\fs26\cf1\insrsid10041093  Studies 
+\par }\pard \s17\ql \li0\ri100\sa270\sl276\slmult0\nowidctlpar\faauto\rin100\lin0\itap0 {\fs26\cf1\insrsid10041093 Subcommittee Recommendation: The Subcommittee recommends that manufacturers conduct a variety of toxicological studies to demonstrate that
+ an active agent is safe. ADA Comment: The ADA concurs with this recommendation, as outlined in the ADA Guidelines for Chemotherapeutic Products for the Control of Gingivitis (Sept 1997). 
+\par }\pard \s17\ql \fi-2255\li2370\ri113\sa270\sl273\slmult0\nowidctlpar\faauto\rin113\lin2370\itap0 {\fs26\cf1\insrsid10041093 Pg 32245, General Statements and Recommendations, H. Safely and Effectiveness, 2a. }{\fs26\cf1\insrsid6187275 Safety. }{
+\fs26\cf1\insrsid10041093 iv }{\fs26\cf1\insrsid6187275 Microbiologic}{\fs26\cf1\insrsid10041093  Evaluation 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee recommends that manufacturers monitor plaque bacteria for 6 months of product usage to determine whether opportunistic or pathogenic organisms flourish, or whether microbial resistance develops. 
+\par }\pard\plain \s17\ql \li0\ri273\sa270\sl276\slmult0\nowidctlpar\faauto\rin273\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+ADA Comment: The ADA concurs with this recommendation, as outlined in the ADA Guidelines for Chemotherapeutic Products for the Control of Gingivitis (Sept 1997). 
+\par }\pard \s17\ql \fi-2050\li2185\ri120\sa270\sl278\slmult0\nowidctlpar\faauto\rin120\lin2185\itap0 {\fs26\cf1\insrsid10041093 Pg 32246, General }{\fs26\cf1\insrsid6187275 Statements}{\fs26\cf1\insrsid10041093  and Recommendations, H. }{
+\fs26\cf1\insrsid6187275 Safety}{\fs26\cf1\insrsid10041093  and Effectiveness, 2c Clinical Trials, v. Interpretation of Data 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Subcommittee }{\fs26\cf1\insrsid6187275 Recommendation}{\fs26\cf1\insrsid10041093 
+: The Subcommittee starts to address the issue of clinical significance by stating that clinical importance should be addressed in addition to statistical sig
+nificance. However, the Subcommittee does not indicate how this is to be done, and concludes that the }{\fs26\cf1\insrsid6187275 question}{\fs26\cf1\insrsid10041093 
+ of clinical significance remains unanswered. ADA Comment: Many of the ideas expressed in this section are in agreement with those contained in the ADA\rquote 
+s April 8986 and Sept 1997 gingivitis guidelines. The ADA concurs with the Subcommittee recommendations that reflect the ADA guidelines. Regarding the issue of clinical, significance, the ADA Sept 1997 gingivitis guidelines addresses minimal effecti
+veness levels to establish clinical significance. Although these levels are subjective, they represent the concurrence of a large number of researchers. The ADA suggests that the FDA consider including some measure of clinical significance in the final ru
+le. 
+\par }\pard \s17\qc \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 Pe 32285-32287, Part 35610ral Heal Care Drug Products for OTC Human Use 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid10041093 
+Subcommittee Recommendation: The Subcommittee makes several recommended changes to 21 CFR part 356. ADA Comment: It is not clear if these recommendations are made by the Subcommittee or by the FDA. However, they appear to be the Subcommittee\rquote 
+s recommendations, since combination active ingredients are being proposed as acceptable for OTC marketing. Once again, the ADA concurs. Previous ADA comments on this Subcommittee report already address other issues in this section. 
+\par }\pard \s17\ql \li0\ri273\sa270\sl276\slmult0\nowidctlpar\faauto\rin273\lin0\itap0 {\fs26\cf1\insrsid10041093 The ADA appreciates the FDA\rquote s consid
+eration of our comments. Should you have any questions, please contact Jonathan B. McLeod, Manager, Legislative and Regulatory Policy at (202) 789-5176. 
+\par }\pard\plain \s22\ql \li0\ri0\sa1075\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 Sincerely, 
+\par }\pard\plain \s17\ql \li0\ri1095\sa270\sl273\slmult0\nowidctlpar\faauto\rin1095\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 
+Eugene Sekiguchi, D.D.S. James B. Bramson, D.D.S. President Executive Director 
+\par }\pard\plain \s22\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid10041093 ES:JBB:JMc:chf }{\insrsid10041093 
+\par }}

@@ -1,0 +1,315 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}{\f36\froman\fcharset238\fprq2 Times New Roman CE;}{\f37\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f39\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f40\froman\fcharset162\fprq2 Times New Roman Tur;}{\f41\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f42\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f43\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f44\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f46\fswiss\fcharset238\fprq2 Arial CE{\*\falt Arial};}{\f47\fswiss\fcharset204\fprq2 Arial Cyr{\*\falt Arial};}{\f49\fswiss\fcharset161\fprq2 Arial Greek{\*\falt Arial};}
+{\f50\fswiss\fcharset162\fprq2 Arial Tur{\*\falt Arial};}{\f51\fswiss\fcharset177\fprq2 Arial (Hebrew){\*\falt Arial};}{\f52\fswiss\fcharset178\fprq2 Arial (Arabic){\*\falt Arial};}{\f53\fswiss\fcharset186\fprq2 Arial Baltic{\*\falt Arial};}
+{\f54\fswiss\fcharset163\fprq2 Arial (Vietnamese){\*\falt Arial};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red255\green102\blue0;\red153\green51\blue0;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext15 Default;}{\s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM1;}{
+\s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM11;}{\s18\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM2;}{\s19\ql \li0\ri0\sa508\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM12;}{
+\s20\ql \li0\ri0\sa955\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM13;}{\s21\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM3;}{\s22\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM4;}{
+\s23\ql \li0\ri0\sa575\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM14;}{\s24\ql \li0\ri0\sa103\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM15;}{\s25\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM5;}{
+\s26\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM6;}{\s27\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM7;}{\s28\ql \li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM8;}{
+\s29\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM9;}{\s30\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM10;}{\s31\ql \li0\ri0\sa1008\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 CM16;}}
+{\*\rsidtbl \rsid2848340\rsid3099898\rsid4013202\rsid5443138\rsid6237621\rsid8218503}{\*\generator Microsoft Word 10.0.2627;}{\info{\title BY FEDERAL EXPRESS }{\author DPROCHNO}{\operator  }{\creatim\yr2006\mo5\dy29\hr15}
+{\revtim\yr2006\mo5\dy29\hr18\min49}{\version7}{\edmins17}{\nofpages12}{\nofwords4282}{\nofchars24413}{\*\company COD}{\nofcharsws28638}{\vern16437}}\paperw12200\paperh15860\margl900\margr900\margt900\margb0 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\viewnobound1\rsidroot4013202 \fet0
+\sectd \sbknone\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs23\cf1\insrsid8218503\charrsid3099898 BY FEDERAL EXPRESS 
+\par }{\fs23\cf1\insrsid8218503 Dockets Management Branch (HFA-305) Food and Drug Administration Department of Health and Human Services 5630 Fishers Lane Room 1061 Rockville, MD 20852 
+\par }\pard \s17\ql \fi-730\li1460\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin1460\itap0 {\fs23\cf1\insrsid8218503 
+Re: Comments to Docket No. 81N-033A: Citizen Petition to Reopen Docket No. 81N-033, Oral Health Care Drug Products for Over- the-Counter Human Use; Tentative Final Monograph for Oral Antiseptic Drug Products 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 Dear Sir or Madam: 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 We submit these comments in
+ response to the citizen petition of Sinofresh Research Labs, LLC (Sinofresh) to reopen Docket No. 81N-033A, the Tentative Final Monograph (TFM) for Oral Antiseptic Drug Products.\rquote  }{\b\fs23\cf17\insrsid8218503\charrsid5443138 
+Sinofresh seeks to reopen the administrative record of this TFM so that it 
+may submit additional data to support the classification of 0.05% cetylpyridium chloride (CPC) as Category I for safety and effectiveness. CPC is currently Category III for oral antiseptic use because available data are insufficient to classify the ingred
+ient safe and effective and further testing is required. 
+\par }\pard\plain \s19\ql \fi1463\li0\ri0\sa508\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs22\cf17\insrsid8218503\charrsid6237621 
+The citizen petition and data submitted by Sinofresh do not support the reclassification of CPC from Category III to Category I for oral antiseptic use. Sinofresh unsuccessfully attempts to include a
+ nasal spray in a monograph for oral health care products and consequently expand the parameters of this TFM to include a product with different indications for use, a different route of administration, and a different exposure time in the body. }{
+\b\fs22\cf18\insrsid8218503\charrsid6237621 Sinofresh has failed to meet the clear testing and data standards previously set by FDA}{\b\fs22\cf17\insrsid8218503\charrsid6237621 
+, and its submission leaves unresolved significant issues regarding effectiveness. Potentially serious safety concerns relating to the use of CPC on nasal cilia and mucosa may exist, and Sinofresh 
+\par }\pard\plain \s20\ql \fi153\li0\ri0\sa955\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 59 Fed. Reg. 6084 (Feb. 9, 1994). 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs16\insrsid8218503 DC: 1447291-5 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid4013202 \page }{\fs23\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July 15,2004 Page 2 
+\par }\pard \s17\ql \li0\ri803\sa270\sl273\slmult0\nowidctlpar\faauto\rin803\lin0\itap0 {\b\fs23\cf17\insrsid8218503\charrsid5443138 has submitted no data to address these concerns. }{\b\cf17\insrsid8218503\charrsid2848340 
+Sinofresh has thus not established good grounds to reopen the administrative record of the TFM}{\cf1\insrsid8218503\charrsid2848340 . 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 I. Background 
+\par }\pard \s17\ql \fi728\li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 A. History of the Oral Antiseptic Drug Products TFM 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 
+In crafting the oral antiseptic TFM at issue, FDA carefully considered the safety and effectiveness of CPC on several occasions and presented a clear path by which to expa
+nd the parameters of the monograph. In 1982, the Advisory Review Panel on Over-the-Counter (OTC) Oral Cavity Drug Products (the Panel) issued an advance notice of proposed rulemaking establishing the conditions under which OTC oral health care drug produc
+t
+s are generally recognized as safe and effective and not misbranded.2 The Panel reviewed CPC as an OTC antimicrobial for topical use on the mucous membranes of the mouth and throat. It noted that CPC is a quatenary nitrogenous compound derived from pyridi
+ne. The Panel expressed concern that toxic doses of CPC exhibit systemic effects, such as an autonomic (nicotinic) blocking effect on the ganglia and a curariform (muscarinic) response.3 The Panel concluded that insufficient data existed on CPC\rquote 
+s tumorigenic, mutagenic, and teratogenic effects in humans during long- term use, and therefore, it classified CPC in Category III for safety.4 
+\par With respect to the effectiveness of CPC, the Panel again classified CPC in Category III. The Panel noted that \'93there are 
+no data to justify the use of [CPC] in oral health care products on a continuing day-to-day basis for protracted periods of time for prophylaxis and other uses when no symptoms are present and no therapeutic benefit can be demonstrated.\'93
+5 It concluded that proof of CPC\rquote s ability to kill or inhibit certain microorganisms found in the mouth is insufficient to demonstrate a therapeutic benefit in treatment of sore mouth or throat.\rquote  
+\par }\pard\plain \s23\ql \fi1468\li0\ri260\sa575\sl278\slmult0\nowidctlpar\faauto\rin260\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+Because this classification was made in an advance notice of proposed rulemaki
+ng, the Panel suggested experimental protocols that might be employed to support an upgrade of an oral antiseptic ingredient from Category III to Category I for safety and effectiveness in the final monograph.7 As discussed in further detail below, the 
+
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 2 47 Fed. Reg. 22760 (May 25,1982). 
+\par 3 Id. at 22865; see also 22846-47. 
+\par 4 Id. at 22865. 
+\par 5 Id. at 22866. 
+\par \rquote  Id. 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+7 Id. at 22890-93. The Panel did not classify any oral antiseptic drug ingredients in Category I. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid4013202 \page }{\fs23\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July l&2004 Page 3 
+\par }\pard \s17\ql \li0\ri93\sa270\sl278\slmult0\nowidctlpar\faauto\rin93\lin0\itap0 {\fs23\cf1\insrsid8218503 recommendations included both in vitro and in viva testing. The Panel expected that the test results demonstrate \'93
+that preparations applied to the mucous membranes of the mouth and throat act topically and reduce pathogenic microbial populations to levels that are therapeutic and that relieve symptoms caused by the infection.\'93\rquote  
+\par }\pard \s17\ql \fi1465\li0\ri188\sa270\sl276\slmult0\nowidctlpar\faauto\rin188\lin0\itap0 {\fs23\cf1\insrsid8218503 In 1994, FDA issued the Tentative Final Monograph for Oral Antiseptic Drug Products (the monograph that Sinofresh is requesti
+ng be reopened).\rquote  FDA defined an oral antiseptic as \'93
+[a]n antiseptic-containing drug product applied topically to the oral cavity to help prevent infection in wounds caused by minor oral irritations, cuts, scrapes, or injury following minor dental procedures.\'93\'93\rquote 
+ It approved a variety of indications for use, including \'93First aid to help prevent infection in minor oral irritation caused by accidental injury.\'93\rquote  \rquote  
+\par }\pard\plain \s18\ql \fi1463\li0\ri0\sa780\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+FDA examined CPC for use as an oral antiseptic and addressed the comments it had received in resp
+onse to the advance notice of proposed rulemaking. It noted the distinction between products recommended for long-term use, like mouthwash, and products intended for short-term use, and stated that safety concerns regarding the long-term use of oral antis
+e
+ptic ingredients were not necessarily relevant to the short-term use of these ingredients. FDA reviewed several CPC toxicity studies and adverse reaction files. It concluded that 0.025 to 0.1% CPC is safe as an OTC oral antiseptic when labeled for short-t
+erm use (i.e., use is not to exceed seven days).12 However, FDA noted its continuing concern regarding CPC\rquote 
+s potential toxicological effects discussed by the Oral Cavity Panel, especially in situations in which excessive gum irritation or bleeding exists, and recommended product labeling to warn consumers against use in such situations. 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 * Id. at 22890. 
+\par 9 59 Fed. Reg. 6084 (Feb. 9, 1994). FDA issued TFMs for OTC oral health care drug products in several segments. The first segment, published in 1988, covere
+d anesthetic/analgesic, astringent, debriding agent/oral wound cleanser and demulcent drug products. 53 Fed. Reg. 2436 (Jan. 27, 1988). The second segment included relief of oral discomfort drug products. 56 Fed. Reg. 48302 (Sept. 24, 1991). The TFM for o
+r
+al antiseptic drug products was the third segment published. Another part of the oral health care drug product scheme involves antiplaque and antiplaque related products. FDA published a call for data for OTC antiplaque ingredients, and then published an 
+advance notice of proposed rulemaking based on the Plaque Subcommittee of the Nonprescription Drugs Advisory Committee (the Subcommittee) review of the submissions. 68 Fed. Reg. 32232 (May 29,2003). 
+\par lo 59 Fed. Reg. at 6104-05. 
+\par I* Id. at 6121-22. 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 l2 Id. at 6094. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid4013202 \page }{\fs23\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July 152004 Page 4 
+\par }\pard\plain \s18\ql \fi1463\li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 With respect to effectiveness issues, FDA continued to classify CPC in Category 
+
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+III.13 FDA received many reports of in vitro and in vivo studies conducted to demonstrate the effectiveness of CPC as an antiseptic agent. However, many of these studies failed to follow the Panel\rquote s recommended experimental protocols.\lquote 
+4 For example, in one study, the incubation conditions used to prepare the test cultures were unlike those recommended by the Pane
+l. In another study, CPC alone was not tested, making it impossible to determine whether or not CPC was effective in reducing the bacterial population of the oral cavity. Other studies were based upon plaque reduction, which both the Panel and FDA agreed 
+was not an appropriate criterion for determining the effectiveness of oral antiseptics. Finally, FDA noted that it was \'93
+not aware of any data from clinical studies demonstrating a therapeutic benefit from the OTC use of [CPC] as an antiseptic in the oral cavity.\'9315 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\fs23\cf17\insrsid8218503\charrsid5443138 FDA concluded that additional data were still necessary \'93
+to establish the effectiveness of [CPC] as an oral antiseptic to help prevent infection in the oral cavity.\'94}{\fs23\cf1\insrsid8218503  It stated that the Panel\rquote s proposed in vitro and in vivo guidelines represented \'93
+a good starting point for the design of studies to upgrade . . . a Category III oral antiseptic ingredient to Category I.\'9316 FDA proposed additional in vivo testing considerations, including a stipulation of \'93
+the specific organisms to be tested, the acceptable decrease in bacterial numbers, and the period of time for which the antiseptic activity should persist.\'94
+ FDA also modified the sampling time intervals after treatment with the oral antiseptic.17 Additionally, FDA concluded that final formulation test
+ing of oral health care antiseptic products was necessary and proposed final formulation testing procedures to include in the TFM. \lquote * 
+\par }\pard \s17\ql \fi1455\li0\ri330\sa270\sl278\slmult0\nowidctlpar\faauto\rin330\lin0\itap0 {\fs23\cf1\insrsid8218503 At no point in crafting the TFM at issue did FDA consider the nasal use of CPC. All of its review and consideration was limited to CPC
+\rquote s effect on the oral cavity. 
+\par }\pard \s17\ql \fi728\li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 B. Accepted Uses of CPC 
+\par }\pard\plain \s23\ql \fi1463\li0\ri0\sa575\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+In its OTC monograph review, FDA has accepted the use of CPC in a drug in only one specific and limited circumstance. In May 2003, FDA issued an advance notice of proposed rulemaking for 
+OTC drug products for the reduction or prevention of dental plaque and 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs21\cf1\insrsid8218503 l3 Id. }{\fs23\cf1\insrsid8218503 at 60956118. 
+\par }{\fs21\cf1\insrsid8218503 I4 Id. }{\fs23\cf1\insrsid8218503 at 6095. 
+\par }{\fs21\cf1\insrsid8218503 l5 Id. 
+\par }{\fs23\cf1\insrsid8218503 l6 }{\fs21\cf1\insrsid8218503 Id. }{\fs23\cf1\insrsid8218503 at 6095,6114-15. 
+\par }{\fs21\cf1\insrsid8218503 I7 Id. }{\fs23\cf1\insrsid8218503 at 6114-15. 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs21\insrsid8218503 \lquote *Id. }{\fs23\insrsid8218503 at 6119. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid4013202 \page }{\fs26\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July 152004 Page 5 
+\par gingivitis. lg }{\b\fs26\cf17\insrsid8218503\charrsid5443138 The Subcommittee, after its review of the submissions in response to FDA\rquote 
+s call for data for OTC antiplaque ingredients, concluded that CPC at concentrations of 0.045 to 0.1% with at least 72 to 77% chemically available CPC \'93is safe and effective for use in mouthrinse formulations as an OTC antigingivitis/antiplaque agent.Y
+\rquote 20With respect to safety concerns, the Subcommittee addressed the teratogenic and mutagenic concerns raised by FDA in the TFM for oral antiseptic products and noted that although long-te
+rm cumulative effects on metabolism and teratogenic effects were not available from controlled human studies, \'93clinical experience following long-term OTC use of the ingredient has not revealed overt toxic manifestations.\'93
+21 With respect to effectiveness concerns, the Subcommittee reviewed six clinical trials and concluded that based on the totality of the data, CPC is effective as an antigingivitis/antiplaque ingredient within the dosage limits described above.22 
+\par }\pard \s17\ql \fi1468\li0\ri260\sa270\sl278\slmult0\nowidctlpar\faauto\rin260\lin0\itap0 {\b\fs26\cf17\insrsid8218503\charrsid5443138 This use of CPC in an oral mouthrinse for 
+gingivitis and plaque is the sole drug use FDA has accepted to date for the ingredient.23 FDA has never approved CPC for use in a nasal spray or any other nasal product. 
+\par }\pard \s17\ql \fi745\li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 C. Sinofresh Request 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\cf1\insrsid8218503 Sinofresh seeks to expand the TFM for oral antiseptic products 
+to include 0.05% CPC for use in a nasal antiseptic spray. Sinofresh is a Florida company that advertises itself as a leader in the field of \'93chronic sinus distress.\'94
+ (Attachment 1) Notwithstanding its pending petition, the company already manufactures and markets \'93Antiseptic SinoFresh\'94
+ as a nasal and sinus spray, apparently outside the TFM or any other current monograph, and without any FDA approval. (Attachment 2) According to the product packaging, SinoFresh is a \'93patented nasal, oral & sinus product\'94 that \'93
+clears nasal passages,\'94 is Vinically proven,\'94 and is \'93non addictive.\'94
+ (Attachment 2) The Drug Facts panel on the product states ,that its active ingredient is 0.05% CPC (Attachment 2), and the citizen petition (p. 4) further indicates that drug is deliv
+ered to the nasal mucosa at a concentration of 0.14 milligram per dose. 
+\par }\pard\plain \s18\ql \fi1463\li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid8218503 The product Drug Facts panel lists two uses: (1) \'93kills germs and bacteria,\'94
+ and 
+\par }\pard\plain \s16\ql \li0\ri0\sa363\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf1\insrsid8218503 (2) \'93reduces germs and bacteria in the nasal passages.\'94
+ (Attachment 2) The Company promotes 
+\par }\pard\plain \s15\ql \li0\ri0\sl338\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 l9 68 Fed. Reg. 32232 (May 29,2003). 2o Id. at 32247. }{\fs23\insrsid8218503 2\rquote  Id. 
+}{\fs26\insrsid8218503 at 32248. 221d. 23 Outside the drug context, FDA recently amended the food additive regulations to provide for the use of CPC as an antimicrobial agent in poultry processing. 69 Fed. Reg. 17297 (April 2, 2004). 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid4013202 \page }{\fs23\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July l-5,2004 Page 6 
+\par SinoFresh (purportedly a \'93revolutionary product\'94 that attacks the molds and bacteria in the nose) for a far broader set of uses. (Attachments 2 & 3) In particular, the Company claims in pr
+omotional materials that SinoFresh kills molds and bacteria on contact, moisturizes and refreshes the nasal membranes, fights odor-causing bacteria known to cause bad breath, relieves sinus allergies, and eliminates nasal obstructions resulting from exces
+s mucous matter. (Id.) In radio commercials, spokespersons compare SinoFresh to other OTC nasal sprays such as AfrinB (oxymetazoline HClO.O5%) and Dristan@ (oxymetazoline hclO.O5%). Both are nasal decongestant products. (Attachment 4)24 
+\par II. Discussion 
+\par }\pard \s17\qc \li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 A. SinoFresh Nasal Spray Does Not Fall Under the Oral Antiseptic TFM. 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 Safety and effectiveness considerations aside, the SinoFresh product --a nasal }{\fs23\cf1\dn4\sub\insrsid8218503 spray }{
+\fs23\cf1\insrsid8218503 --does not fit within the parameters of the oral antiseptic TFM. In the advance notice of proposed rulemaking, the Panel defined oral health care as \'93
+[t]he proper care of the mouth, including the temporary relief of symptoms of the mouth and throat, for example, occasional minor sore throat or mouth soreness.\'9325 Additionally, as mentioned above, FDA\rquote s defin
+ition of oral antiseptic is a product that prevents infection in wounds caused by minor oral irritations, cuts, scrapes, or injury following minor dental procedures. Sinofresh describes its product as an oral/nasal antiseptic product. However, the product
+ is a nasal spray and the focus of its promoted indications are nasal maladies (e.g., nasal congestion and sinus allergies), The product thus falls outside this monograph. 
+\par }\pard\plain \s20\ql \fi1463\li0\ri0\sa955\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 Sinofresh unsuccessfully attempts to stretch the Panel\rquote s definition of 
+\'93oral cavity\'94 to include the nose by arguing that the nose is an \'93associated structure\'94 of the mouth. The Panel defined \'93oral cavity\'94 as \'93
+[t]he cavity of the mouth and associated structures, including the cheeks, palate, oral mucosa, glands whose ducts open into it, the teeth, and the tongue.\'93
+26 The definition does not include the nose and does not appear to contemplate the inclusion of the nose as an associated structure. While the Panel recognized that the mouth and throat are continuous with other systems of the body
+, such as the lower respiratory and gastrointestinal tract, it limited 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 24 According to the Sinofresh website (http://www.sinofresh.com), antiseptic Sinofresh is 
+
+\par marketed to the six top drug/food chains nationally (CVS, Eckerd, Walgreen\rquote s, Publix, Rite Aid, 
+\par Osco/Sav-On). It is marketed as a nasal spray and is usually located in an entirely different 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 location from the oral care section. 
+\par 25 47 Fed. Reg. at 22764. 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 26 Id. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid4013202 \page }{\fs23\cf1\insrsid8218503 
+Dockets Management Branch (HFA-305) July 15,2004 Page 7 
+\par }\pard \s17\ql \li0\ri93\sa270\sl278\slmult0\nowidctlpar\faauto\rin93\lin0\itap0 {\fs23\cf1\insrsid8218503 its consideration to the effect that ingredients exert on the mucous membranes of the mouth and throat.27 
+\par }\pard \s17\ql \fi1468\li0\ri260\sa270\sl278\slmult0\nowidctlpar\faauto\rin260\lin0\itap0 {\fs23\cf1\insrsid8218503 SinoFresh\rquote 
+s advertised indications for use as a nasal decongestant and sinus allergy reliever appear to place it more appropriately under the Cold, C
+ough, Allergy, Bronchodilator, and Antiasthmatic Drug Products for Over-the Counter Human Use monograph.28 This monograph covers a wide range of indications for use, including \'93Temporarily relieves nasal congestion associated with sinusitis\'94 and 
+\'93Promotes nasal and/or sinus drainage; temporarily relieves sinus congestion and pressure.\'932g This monograph, however, does not recognize CPC, the active ingredient of SinoFresh, as safe and effective for any of the indicated uses. 
+\par Sinofi-esh could potentially seek to add CPC to the cough cold monograph. For present purposes, however, what is clear is that its petition to include a CPC nasal spray within the oral antiseptic TFM is misplaced. 
+\par }\pard \s17\ql \fi-735\li1473\ri385\sa270\sl278\slmult0\nowidctlpar\faauto\rin385\lin1473\itap0 {\fs23\cf1\insrsid8218503 B. \tab SinoFresh has Not Demonstrated the Effectiveness of CPC for its Claimed Uses. 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\cf1\insrsid8218503 
+The Panel and FDA have presented clear guidelines by which to structure in vitro and in vivo studies to support the reclassification of an oral antiseptic ingredient from Category III to Category I for effectiveness. These guidelines do not descri
+be the way in which a nasal antiseptic ingredient fits under an oral health care product monograph. Notwithstanding the above, Sinofresh submitted two studies purporting to demonstrate the neutralization of certain mold, bacteria, and fungi organisms by 0
+.05% CPC. Neither of these studies fulfills the guidelines FDA previously set down. 
+\par }\pard\plain \s19\ql \fi1463\li0\ri0\sa508\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf1\insrsid8218503 
+For example, with respect to the in vitro test guidelines, the Panel recommended that the test measure the effectiveness of the antiseptic ingredient at killing test organi
+sms within the first two minutes of exposure. According to the Panel, the two-minute exposure time reflects the contact time of the product in vivo before it is diluted by oral fluids.30 The test methods used in the studies submitted by Sinofresh measured
+ ingredient activity at 0,6,24, and 72 hours, and 5 and 7 days. The test organisms used in the Sinofresh studies were unlike those recommended by the Panel, and some of the culture conditions were not specified (e.g., how the cultures were 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 27 Id. at 22766. }{\cf0\insrsid8218503 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid8218503 28 21 C.F.R. 5 341. 
+\par 2g 21 C.F.R. 8 341.80(b)(l) and (2)(v). 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid8218503 3o 47 Fed. Reg. at 22891. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid4013202 \page }{\insrsid8218503 Dockets Management Branch (HFA-305) July 152004 Page 8 
+\par }\pard \s17\ql \li0\ri408\sa270\sl276\slmult0\nowidctlpar\faauto\rin408\lin0\itap0 {\insrsid8218503 grown, aerobically or anaerobically). Additionally, the Panel recommended that the test be conducted in the 
+presence of biological fluids, specifically sterile fetal calf serum, and neither Sinofresh study included this variable. 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid8218503 Even if Sinofresh\rquote s petition contained adequate in vitro data -- which it does not --the petition would be lacking because it contain
+s no in vivo testing to establish the effectiveness of CPC as an oral antiseptic. The Panel required both in vitro and in vivo test data, and recommended that in vivo test methods \'93
+be designed to closely approximate the clinical situations for which a prod
+uct is intended to be used and to substantiate claims in the labeling that the relief of symptoms of mouth and throat infections is indeed due to an antimicrobial activity of an ingredient.\'9331 In the TFM, FDA noted its belief that \'93
+data from in vitro testing alone are insufficient to establish that an oral antiseptic is generally recognized as effective,\'94
+ and proposed in vivo testing guidelines in addition to the ones described by the Panel in the advance notice of proposed rulemaking. The two limited in vi
+tro studies submitted by Sinofresh are insufficient to demonstrate the effectiveness of CPC for human use, let alone to substantiate the wide range of clinical benefits the company is claiming that SinoFresh provides. 
+\par }\pard \s17\ql \fi1455\li0\ri85\sa270\sl278\slmult0\nowidctlpar\faauto\rin85\lin0\itap0 {\insrsid8218503 In addition to proposing in vivo guid
+elines, FDA concluded that final formulation testing of OTC oral antiseptic drug products is necessary because the final formulation can influence the effectiveness of the active ingredient.\'94
+ In the TFM, the proposed final formulation testing procedures required evidence that the active ingredient at the lowest recommended use concentration decrease the number of bacteria per milliliter by 3 logto within 10 minutes at 37\'b0
+C in the presence of 10% serum in vitro.34 Sinofi-esh submitted no data from final formulation testing. 
+\par }\pard\plain \s19\ql \fi1455\li0\ri85\sa508\sl278\slmult0\nowidctlpar\faauto\rin85\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid8218503 
+None of the data or materials submitted by Sinofresh demonstrates that using the SinoFresh spray provides any therapeutic benefit to the user. As discussed above, Sinofresh submitted just two in vitro studies purporting to demonstrate the
+ elimination of various bacteria, mold, and fungi by CPC. These in vitro tests failed to comport with FDA\rquote s establishing testing methodology. Further, the tests do not begin to address clinical benefit. Nowhere in the petition 
+\par }\pard\plain \s24\ql \li53\ri0\sa103\nowidctlpar\faauto\rin0\lin53\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs21\insrsid8218503 31 Id. 
+\par }\pard\plain \s30\ql \li55\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin55\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 32 59 Fed. Reg. at 6114. This conclusion reflects FDA\rquote s general view that \'93\lquote 
+[i/n vitro 
+\par microbiologic data establish in vitro microbiologic activity only.\'94 See Letter to Application 
+\par Holders from Lillian Gavrilovich, MD, Acting Director, Division of Anti-Infective Drug 
+\par Products, and Janet L. Rose, Director, Division of Drug Marketing, Advertising and 
+\par }\pard\plain \s24\ql \li55\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin55\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 Communications, FDA re: \'93Anti-Infective Promotion\'94 at 1 (September 1994). 
+\par 33 59 Fed. Reg. at 6119. 
+\par }\pard\plain \s29\ql \li53\ri0\nowidctlpar\faauto\rin0\lin53\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 34}{\fs21\insrsid8218503 Id. }{\fs23\insrsid8218503 at 6122-24 (to be codified at 21 C.F.R. 5 356.90). 
+
+\par }{\fs23\insrsid4013202 \page }{\fs23\insrsid8218503 Dockets Management Branch (HFA-305) 
+\par July 15,2004 
+\par }\pard\plain \s17\ql \li53\ri0\sa270\nowidctlpar\faauto\rin0\lin53\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 Page 9 
+\par }\pard\plain \s29\ql \li53\ri0\nowidctlpar\faauto\rin0\lin53\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 is there an explanation (let alone supporting data) for how eliminating bacteria, mold, and fungi 
+\par from the nose clears sinuses, relieves nasal congestion, eliminates bad breath, or provides any 
+\par other benefit. FDA has repeatedly stressed the importance of demonstrating such clinical 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 benefit. 
+\par }\pard \s17\ql \fi1465\li0\ri188\sa270\sl276\slmult0\nowidctlpar\faauto\rin188\lin0\itap0 {\fs23\insrsid8218503 
+In the proposed rule, the Panel expressed skepticism that oral antiseptic products provide any benefit at all. It noted that the oral cavity is endowed wi
+th physiologic mechanisms for maintaining the healthy, state of structures contained therein and that no medicines are necessary to achieve this end.35 In the TFM, one of the reasons FDA classified CPC in Category III was because no data from clinical stu
+dies demonstrated a therapeutic benefit from the OTC use of CPC as an antiseptic in the oral cavity.3\'94 The Sinofresh petition does little to meet this need for data. 
+\par }\pard \s17\qc \li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\insrsid8218503 C. Safety Concerns Remain for CPC, Particularly with Nasal Administration 
+\par }\pard\plain \s18\ql \fi1463\li0\ri0\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 As noted above, the Subcommittee\rquote s conclusion that CPC at concentrations of 
+
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 
+0.045 to 0.1% with at least 72 to 77 percent chemically available CPC is safe for use was specifically based on use in mouthrinse formulations as an OTC antigingivitis/antiplaque agent.37 This f
+inding does not consider the use of CPC in a nasal spray and leaves open a number of safety concerns for the Sinofresh product. The modes of administration of a mouthrinse solution and a nasal spray are significantly different and potentially present uniq
+ue safety considerations. Additionally, Sinofresh\rquote s marketed indications present further potential safety issues that have not been addressed by FDA or its advisory panels. 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\insrsid8218503 As to the open safety issues for nasally delivered CPC, the effect of CPC on nasal 
+cilia and mucosa may be different than its effect on oral cavity tissues. The Subcommittee limited its review of CPC to mouthrinse products, during the use of which CPC is in limited contact with the oral mucosa and the product is to be expelled after bri
+ef exposure. In contrast, nasal sprays are not designed to be expelled, and consequently, the nasal mucosa are exposed to CPC for much longer periods of time. CPC\rquote 
+s effect on the oral mucosa and associated structures does not establish its effect on the nasal cilia and mucosa because of the physiological differences between the two structures. 
+\par }\pard\plain \s23\ql \fi1465\li0\ri188\sa575\sl276\slmult0\nowidctlpar\faauto\rin188\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 FDA, in the Final Monograph for OTC Nasal Deconge
+stant Drug Products, noted the sensitivity of the nasal cilia and mucosa and concluded that studies that examined oral or 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 35 47 Fed. Reg. at 22766. 
+\par 36 59 Fed. Reg. at 6095. 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 37 68 Fed. Reg. 32232,32247. 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf0\insrsid4013202 \page }{\fs26\cf0\insrsid8218503 Dockets Management Branch (HFA-305) 
+\par }\pard\plain \s29\ql \li53\ri0\nowidctlpar\faauto\rin0\lin53\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 July 15,2004 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 Page 10 
+\par }\pard \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\fs26\insrsid8218503 injectable routes of administration were not useful to evaluate topical effects of nasal decongestants.38 FDA found in particular that \'93
+[m]any drugs . . . are absorbed well from the mucosa of the oropharynx and can be more rapidly and completely absorbed than when ingested orally.\'93
+3g Additionally, FDA noted its concern that the recommended dosage of the different applications varies and therefore, drawing conclusions for topical nasal decongestants from an oral nasal decongestant study is difficu
+lt.40 Sinofi-esh has submitted no evidence to address these concerns and demonstrate that the safety conclusions relating to CPC in mouthrinses drawn by the Subcommittee are applicable to CPC in nasal sprays. 
+\par }\pard \s17\ql \fi1455\li0\ri85\sa270\sl278\slmult0\nowidctlpar\faauto\rin85\lin0\itap0 {\fs26\insrsid8218503 An additional safety concern that arises from 
+the nasal delivery of CPC in a spray mist is potentially adverse bronchial and pulmonary exposure. The mode of administration of a mouthrinse does not lead to bronchial or pulmonary exposure, and the Subcommittee did not consider the possibility of this e
+xposure. The nasal spray application raises this risk, however, and the Sinofresh petition lacks evidence demonstrating that CPC is safe for exposure to these areas. 
+\par }\pard \s17\ql \fi1465\li0\ri188\sa270\sl276\slmult0\nowidctlpar\faauto\rin188\lin0\itap0 {\fs26\insrsid8218503 Separate and apart from the open safety issues related to nasal administration of CPC are safety concerns related to Sinofresh\rquote 
+s marketed indications in the OTC setting. The presence of nasal mold and bacteria may indicate a nasal infection that is only properly treated with a topical prescription antibiotic or systemic antibiotic. These infect
+ions require diagnosis and treatment by a learned intermediary. When left untreated, nasal infections can readily progress to cellulitis, a potentially serious condition. The product labeling and indications for use present on the Sinofresh packing and on
+ 
+its website specify self-administration and thus risk inappropriate treatment of these potentially serious nasal infections. The Sinofresh petition offers no data to establish that its product can be used safely in an OTC setting in light of this potentia
+l for patient misdiagnosis and mistreatment. 
+\par }\pard\plain \s31\ql \fi1463\li0\ri0\sa1008\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 
+Additionally, the role of bacteria and mold in sinus congestion has not been established (other than in sinus infections). Use of a nasal antiseptic spray may cause more harm than benefit because such sprays cou
+ld alter the normal nasal flora and potentially lead to an overgrowth of more significant microorganisms, such as staphylococcus. This alteration of nasal flora may potentially alter the nose\rquote 
+s natural defenses. Sinofresh also offers no data on this additional important safety consideration. 
+\par }\pard\plain \s15\ql \li0\ri0\sl380\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\cf0\insrsid8218503 38 59 Fed. Reg. 43386,43402 (Aug. 23,1994). 3g rd. }{\fs21\cf0\insrsid8218503 4o Id. 
+
+\par }\pard\plain \s24\ql \li0\ri0\sa103\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid4013202 \page }{\fs26\insrsid8218503 Dockets Management Branch (HFA-305) 
+\par }\trowd \irow0\irowband0\ts11\trgaph108\trrh695\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth9475\clshdrawnil \cellx9367\pard\plain \s15\ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 July 15,2004 Page 11 \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 \trowd \irow0\irowband0
+\ts11\trgaph108\trrh695\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth9475\clshdrawnil \cellx9367\row 
+}\trowd \irow1\irowband1\ts11\trgaph108\trrh775\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\cltxlrtb\clftsWidth3\clwWidth1233\clshdrawnil \cellx1125\clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth8243\clshdrawnil \cellx9367\pard\plain 
+\s15\ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 D. \cell There is No Support for Sinofresh\rquote s Requested Statements of Identity and Label Indications. \cell 
+}\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 \trowd \irow1\irowband1
+\ts11\trgaph108\trrh775\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1233\clshdrawnil \cellx1125
+\clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth8243\clshdrawnil \cellx9367\row }\trowd \irow2\irowband2\lastrow 
+\ts11\trgaph108\trrh413\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1233\clshdrawnil \cellx1125
+\clvertalb\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth8243\clshdrawnil \cellx9367\pard\plain \s15\ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0\insrsid8218503 \cell }{\fs26\insrsid8218503 Sinofresh has failed to establish that CPC should be added to the oral antiseptic \cell }\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 \trowd \irow2\irowband2\lastrow 
+\ts11\trgaph108\trrh413\trleft-108\trftsWidth3\trwWidth9475\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth1233\clshdrawnil \cellx1125
+\clvertalb\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth8243\clshdrawnil \cellx9367\row }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0\insrsid8218503 
+\par TFM as a Category 1 ingredient for safety and effectiveness. Even if CPC were added to the 
+\par TFM, however, there would not be a basis to adopt the overly broad statements of identity and 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid8218503 labeling indications that Sinofresh has proposed. 
+\par }\pard \s17\ql \fi1463\li0\ri0\sa270\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid8218503 Sinofresh requests that FDA approve the following statements of identity: oral antiseptic, nasal antiseptic, o
+ral antimicrobial, and nasal antimicrobial. In the TFM, FDA concluded that the term \'93oral antiseptic\'94 is appropriate as the statement of identity for oral health care antiseptics4\rquote  FDA did not include \'93oral antimicrobial\'94
+ as an alternate statement of identity, and Sinofresh does not offer a basis for doing so now.42 Sinofresh\rquote s request to equate nasal and oral is similarly unsupported, and runs directly contrary to FDA\rquote 
+s prior treatment of what constitutes an associated structure of the mouth, as addressed above. 
+\par Sinofresh also requests that FDA authorize use of the following labeling indications/claims: an aid to daily oral [or nasal] care; kills germs; temporarily reduces bacteria in the nose, mouth, and throat; and temporarily reduces fungus in the nose,
+ mouth, and throat. FDA has specifically considered and rejected such claims in its prior reviews. In the TFM, FDA explicitly concluded that claims such as \'93an aid to daily oral [or nasal] care\'94
+ are not appropriate drug claims.43 FDA similarly determined that the labeling claim \'93temporarily reduces bacteria in the mouth and throat\'94
+ is not an appropriate indication for OTC oral health care drug products, because it does not inform consumers \'93of what benefit might be expected to result from reducing the bacte
+ria in the mouth and throat, Furthermore, the agency is not aware of any data demonstrating that reducing the bacteria in throat has a therapeutic benefit.\'9344 These concerns also establish the inappropriateness of Sino fresh\rquote s labeling claim 
+\'93\lquote temporarily reduces fungus in the nose, mouth, and throat.\'94 
+\par }\pard \s17\ql \li0\ri0\sa270\nowidctlpar\faauto\rin0\lin0\itap0 {\fs23\insrsid8218503 III. Conclusion 
+\par }\pard\plain \s19\ql \fi1463\li0\ri0\sa508\sl278\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 Sinofresh\rquote 
+s citizen petition should be denied. Sinofresh seeks inappropriately to stretch a tentative final monograph for oral antiseptic drug products to cover a product with a different ro
+ute of administration, different indications, and different exposure considerations. 
+\par }\pard\plain \s24\ql \li0\ri0\sa103\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\insrsid8218503 41 Id. at 6105. 
+\par }\pard \s24\ql \li0\ri0\sa103\nowidctlpar\faauto\rin0\lin0\itap0 {\fs21\insrsid8218503 42 id. 
+\par 43 Id. }{\fs26\insrsid8218503 at 6108. 
+\par }\pard\plain \s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs21\cf0\insrsid8218503 44 Id. }{\fs26\cf0\insrsid8218503 at 6107. 
+\par }\pard\plain \s17\ql \li0\ri0\sa270\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid4013202 \page }{\fs23\insrsid8218503 Dockets Management Branch (HFA-305) July 15,2004 Page 12 
+
+\par The petition does not begin to provide the type or q
+uantity of data that are needed to support a nasal CPC spray for the wide range of claimed indications for which Sinofresh already markets the product. Substantial open safety and effectiveness issues remain open. Accordingly, there is not a basis to recl
+assify CPC from Category III to Category I. 
+\par }\pard\plain \s31\ql \li6565\ri0\sa1008\sl276\slmult0\nowidctlpar\faauto\rin0\lin6565\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 Respectfully submitted, 
+\par }\pard\plain \s15\ql \fi130\li6563\ri445\sl273\slmult0\nowidctlpar\faauto\rin445\lin6563\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\cf0\insrsid8218503 senior Vice President, Scientific and Regulatory Affairs 
+\par }\pard\plain \s16\ql \li0\ri0\sl276\slmult0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs23\insrsid8218503 Enclosures 
+\par }}
